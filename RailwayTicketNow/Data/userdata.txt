@@ -1,0 +1,26 @@
+Date and Time: 11:39 AM, 25/06/2025
+========================================
+Name          : Mahbub Hasan
+Mobile Number : 01787978144
+Bangladeshi   : Yes
+Facilities  : Window Seat, Food Service and Male Cabin
+From Station  : Dhaka
+To Station    : Sylhet
+Seat Class    : AC
+Seat Price    : Price : 2000 tk
+Feedback      : Good !
+----------------------------------------
+
+Date and Time: 11:46 AM, 25/06/2025
+========================================
+Name          : Tipu
+Mobile Number : 01787978144
+Bangladeshi   : Yes
+Facilities  : Window Seat, Food Service and Male Cabin
+From Station  : Dhaka
+To Station    : Rajshahi
+Seat Class    : AC
+Seat Price    : Price : 2000 tk
+Feedback      : Essy to buy !
+----------------------------------------
+
